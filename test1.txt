@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is C046-84C3
+
+ Directory of C:\Users\ASH\Desktop\MyProject
+
+07-02-2021  13:39    <DIR>          .
+07-02-2021  13:39    <DIR>          ..
+07-02-2021  13:39                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  75,759,255,552 bytes free
